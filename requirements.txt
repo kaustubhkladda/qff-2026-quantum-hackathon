@@ -1,0 +1,11 @@
+# QFF 2026 Basic track benchmark. Install with:  pip install -r requirements.txt
+# qiskit-ibm-runtime is pinned: two of the models are fake backends shipped in 0.50.0,
+# and other releases can carry different calibration data.
+# Tested with Python 3.10-3.13, qiskit 2.5.2 and qiskit-aer 0.17.2.
+qiskit>=2.1,<3
+qiskit-aer>=0.17
+qiskit-ibm-runtime==0.50.0
+rustworkx>=0.15
+numpy
+matplotlib
+pylatexenc
