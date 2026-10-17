@@ -112,7 +112,7 @@ The supplied benchmark definitions and requirements should remain unchanged wher
 ├── requirements.txt
 ├── qff_basic_benchmark.py
 ├── QFF2026_Basic_Track_Solution.ipynb
-├── report.md                 # or report.pdf
+├── QFF2026_Geometry_Aware_Quantum_Cloud_Report.pdf
 └── results/
     ├── core_nine_cases.csv
     ├── task5_builder_variants.csv
@@ -123,8 +123,6 @@ The supplied benchmark definitions and requirements should remain unchanged wher
     ├── settings.json
     └── figures/
 ```
-
-Include only files that are actually present in your repository and adjust the structure above to match your final submission.
 
 ## Limitations
 
